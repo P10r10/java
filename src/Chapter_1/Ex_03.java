@@ -1,6 +1,6 @@
 package Chapter_1;
 
-public class Ex_3 {
+public class Ex_03 {
     public static void main(String[] args) {
         System.out.println("   J    a  v     v  a");
         System.out.println("   J   a a  v   v  a a");

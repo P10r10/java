@@ -1,6 +1,6 @@
 package Chapter_1;
 
-public class Ex_4 {
+public class Ex_04 {
     public static void main(String[] args) {
         System.out.println("a a^2 a^3 a^4");
         System.out.println("1   1   1   1");
